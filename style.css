@@ -13,6 +13,14 @@ h1, h2{
     color: #e53270;
     margin-bottom: 20px;
 }
+h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h3{
+    color: #fd8906;
+    margin: 10px;
+}
 
 /* layout */
 .container{
@@ -26,6 +34,15 @@ h1, h2{
 .item{
     width: 32%;
     padding: 10px;
-    /* da rimuovere */
-    background-color: green;
+    text-align: center;
+}
+
+/* item */
+.item img{
+    height: 150px;
+}
+
+/* footer */
+footer{
+    margin-top: 20px;
 }
